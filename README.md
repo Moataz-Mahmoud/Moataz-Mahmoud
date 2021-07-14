@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moataz-Mahmoud
 - 👀 I’m interested in automated tests in Javascript
-- 🌱 I’m currently learning Cypress
+- 🌱 I’m currently writing tests in Cypress and WebDriver IO
 - 💞️ I’m looking to collaborate on any open source Javascript based project.
 
 <!---
